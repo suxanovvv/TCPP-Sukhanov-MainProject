@@ -40,7 +40,7 @@ namespace Лабораторна_5
 
             for (int i = 0; i < xarray.Length; i++)
             {
-                if (xarray[i] < 0 && i % 2 == 0)
+                if (xarray[i] < 0 && i % 2 != 0)
                 {
                     xarray[i] = xarray[i] * 2;
                 }
