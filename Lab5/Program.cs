@@ -67,6 +67,11 @@ namespace Лабораторна_5
 
         static void Main(string[] args)
         {
+            Console.WriteLine("New Changes 2!");
+            Console.WriteLine("New Changes 2!");
+            Console.WriteLine("New Changes 2!");
+            Console.WriteLine("New Changes 2!");
+
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             string way_x = @"C:\Users\пк\Desktop\Lab5\x.txt";
             double[] xarray = GivingEl(way_x);
