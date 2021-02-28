@@ -70,7 +70,7 @@ namespace Лабораторна_5
             Console.WriteLine("New Changes 2!");
             Console.WriteLine("New Changes 2!");
             Console.WriteLine("New Changes 2!");
-            Console.WriteLine("Додаткові зміни!!!!");
+            Console.WriteLine("Changes");
 
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             string way_x = @"C:\Users\пк\Desktop\Lab5\x.txt";
