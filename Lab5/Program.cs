@@ -9,7 +9,9 @@ namespace Лабораторна_5
 {
     class Program
     {
+      //Edit from Browser
         //Edit from IDE
+        //Конфлікт вирішено 07/04.
         public string path = @"C:\Users\пк\Desktop\Lab5\x.txt";
         private static double[] GivingEl(string way)
         {
